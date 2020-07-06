@@ -6,7 +6,7 @@ This code plots temperature, radiation, wind, rain and humidity graphs using R a
 
 - Install [R](https://cran.r-project.org);
 - Install [RStudio](https://rstudio.com/products/rstudio/download/);
-- Open the file "server.R" or "ui.R" using RStudio;
+- Open the file [server.R](server.R) or [ui.R](ui.R) using RStudio;
 - Clink in "Run App" in RStudio. RStudio will download all necessary libraries and will open a UI.
 
 *Observation:* you can load other files (with the same structure) of different dates. These particulars .Rda files are from March 21th to 24th of 2017.
