@@ -22,11 +22,11 @@ This code plots temperature, radiation, wind, rain and humidity graphs using R a
 #### Wind:
 <img src="img/wind_graph.PNG" width="800">
 
-#### Rain:
-<img src="img/rain_graph.PNG" width="800">
-
 #### Humidity:
 <img src="img/humidity_graph.PNG" width="800">
+
+#### Rain:
+<img src="img/rain_graph.PNG" width="800">
 
 #### Map:
 
