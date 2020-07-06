@@ -13,22 +13,22 @@ This code plots temperature, radiation, wind, rain and humidity graphs using R a
 
 ## Graphs
 
-#### Temperature:
+### Temperature:
 <img src="img/temperature_graph.PNG" width="800">
 
-#### Radiation:
+### Radiation:
 <img src="img/radiation_graph.PNG" width="800">
 
-#### Wind:
+### Wind:
 <img src="img/wind_graph.PNG" width="800">
 
-#### Humidity:
+### Humidity:
 <img src="img/humidity_graph.PNG" width="800">
 
-#### Rain:
+### Rain:
 <img src="img/rain_graph.PNG" width="800">
 
-#### Map:
+### Map:
 
 <img src="img/map_rs.PNG" width="800">
 
